@@ -11,7 +11,8 @@ Ejecutamos `npm install` en la consola para instalar las dependencias, una vez i
 
 
 <p align="center">
-  <img height="400" src = "./public/img.1.png"/>
-  <br> </br>
-  <img height="400" src = "./public/img.2.png"/>
+    <br> </br>
+    <img height="400" src = "./public/img.1.png"/>
+    <br> </br>
+    <img height="400" src = "./public/img.2.png"/>
 </p>
