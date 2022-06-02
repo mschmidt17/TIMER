@@ -9,3 +9,9 @@ Tendremos un solo componente en donde manejaremos los estados y nuestra UI.
 
 Ejecutamos `npm install` en la consola para instalar las dependencias, una vez instaladas inicializamos el proyecto con `npm start`. Se iniciara en `http://localhost:3000/`.
 
+
+<p align="center">
+  <img height="400" src = "./public/img.1.png"/>
+  <br> </br>
+  <img height="400" src = "./public/img.2.png"/>
+</p>

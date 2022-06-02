@@ -66,11 +66,11 @@ const Timer = () => {
         <button className="button button-primary" onClick={reset}>
           Reset
         </button>
-        <button className="button button-secondary" onClick={cambioTipo}>
-          {tipo}
-        </button>
-        {tipo === 'Cuenta Regresiva' && <input className='input' type="number" ref={myRef} onChange={agregaSegundos} placeholder="Ingresa Segundos" autoComplete="off"/>}
       </div>
+      <button className="button button-secondary" onClick={cambioTipo}>
+        {tipo}
+      </button>
+        {tipo === 'Cuenta Regresiva' && <input className='input' type="number" ref={myRef} onChange={agregaSegundos} placeholder="Ingresa Segundos" autoComplete="off"/>}
     </div>
   );
 };
